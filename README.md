@@ -24,9 +24,9 @@ The full experiment is provided in [uavpaper.ipynb](uavpaper.ipynb). It is confi
 3. Install the listed dependencies.
 4. Run the notebook from top to bottom.
 
-`ash
+```bash
 pip install -r requirements.txt
-`
+```
 
 Datasets, trained weights, and generated experiment outputs are not stored in this repository.
 
