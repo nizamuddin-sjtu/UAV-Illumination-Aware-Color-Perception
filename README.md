@@ -30,6 +30,13 @@ pip install -r requirements.txt
 
 Datasets, trained weights, and generated experiment outputs are not stored in this repository.
 
+## Citation
+
+If you use this repository or the accompanying dataset in your work, please cite:
+
+- Maitlo, N., Noonari, N., Ghanghro, S. A., Duraisamy, S., & Ahmed, F. (2024). Color recognition in challenging lighting environments: CNN approach. *2024 IEEE 9th International Conference for Convergence in Technology (I2CT)*, 1–7. https://doi.org/10.1109/I2CT61223.2024.10543537
+- Maitlo, N., Noonari, N., Ahmed, F., & Hussain, A. (2026). Color-in-Context: A 12K-image dataset for color recognition under varied illumination. *Preprints*. https://doi.org/10.20944/preprints202604.0505.v1
+
 ## License
 
 This project is available under the MIT License.
